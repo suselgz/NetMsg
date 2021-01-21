@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetMsg", "NetMsg.vcproj", "{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DLLDebug|Win32 = DLLDebug|Win32
+		DLLRelease|Win32 = DLLRelease|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}.Debug|Win32.Build.0 = Debug|Win32
+		{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}.DLLDebug|Win32.ActiveCfg = DLLDebug|Win32
+		{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}.DLLDebug|Win32.Build.0 = DLLDebug|Win32
+		{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}.DLLRelease|Win32.ActiveCfg = DLLRelease|Win32
+		{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}.DLLRelease|Win32.Build.0 = DLLRelease|Win32
+		{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}.Release|Win32.ActiveCfg = Release|Win32
+		{B7CF1377-A6DD-43DA-ABBE-76632BEAE9CC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
